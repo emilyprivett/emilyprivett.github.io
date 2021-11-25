@@ -3,6 +3,7 @@ body{
 }
 
 h1 {
+    align-content: center;
     font-size: 300%;
     color: black;
     font-family: Papyrus;
