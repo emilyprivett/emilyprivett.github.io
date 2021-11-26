@@ -8,9 +8,11 @@ h1 {
     color: black;
     font-family: 'Lucida Calligraphy';
 }
-img{
-   height:20%;
 
-   border:thick;
-   border-block-color: black;
+.ImageBox{
+    background-color: black;
+    width: 20%;
+}
+img{
+    height: 16%;
 }
