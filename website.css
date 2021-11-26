@@ -9,6 +9,8 @@ h1 {
     font-family: 'Lucida Calligraphy';
 }
 img{
+   height:20%;
+
    border:thick;
    border-block-color: black;
 }
