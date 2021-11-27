@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: Cooper;
+    text-align: center;
+    font-size: 300%;
+    color: black;
+}

@@ -1,4 +1,4 @@
-body{
+body {
     background-color: lightpink;
 }
 
@@ -6,13 +6,56 @@ h1 {
     text-align: center;
     font-size: 300%;
     color: black;
+    font-family: Cooper;
+}
+
+h2 {
     font-family: 'Lucida Calligraphy';
 }
 
-.ImageBox{
+.ImageBox {
     background-color: black;
-    width: 20%;
+    width: 22%;
+    height: 22%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    margin: 10px;
 }
-img{
-    padding: 5%;
+
+img {
+    margin: 5%;
+    height: 90%;
+    width: 90%;
+}
+
+p {
+    font-family: 'Comic Sans MS';
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+
+}
+
+li a:hover {
+    background-color: black;
 }
