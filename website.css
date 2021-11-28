@@ -34,7 +34,7 @@ p {
     font-family: 'Comic Sans MS';
 }
 
-.navbar{
+.navbar ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -42,7 +42,7 @@ p {
     background-color: white;
 }
 
-li {
+.navbar li {
     float: left;
 }
 

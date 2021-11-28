@@ -9,7 +9,7 @@ h1 {
     color: black;
 }
 
-.navbar{
+.navbar ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -58,7 +58,7 @@ li a:hover {
     padding: 15px;
 }
 
-.clubnames li{
+.clubnames ul{
     list-style-type: circle;
     color: black;
     font-family: Calibri;

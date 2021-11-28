@@ -9,7 +9,7 @@ h1 {
     color: black;
 }
 
-.navbar{
+.navbar ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ h1 {
     background-color: white;
 }
 
-li {
+.navbar li {
     float: left;
 }
 
@@ -42,7 +42,7 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
 }
-.SkillList {
+.SkillList ul {
     list-style-type: circle;
     color: black;
     font-family: Calibri;
