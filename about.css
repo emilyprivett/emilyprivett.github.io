@@ -36,8 +36,8 @@ li a:hover {
 
 .SchoolInfo {
     background-color: white;
-    width: auto;
-    height: auto;
+    width: 47%;
+    height: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -48,8 +48,8 @@ li a:hover {
 
 .Clubs {
     background-color: white;
-    width: auto;
-    height: auto;
+    width: 47%;
+    height: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -58,7 +58,7 @@ li a:hover {
     padding: 20px;
 }
 
-ol{
+.clubnames{
     list-style-type: circle;
     color: black;
     font-family: Calibri;
