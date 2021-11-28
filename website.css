@@ -34,7 +34,7 @@ p {
     font-family: 'Comic Sans MS';
 }
 
-#navbar{
+.navbar{
     list-style-type: none;
     margin: 0;
     padding: 0;
