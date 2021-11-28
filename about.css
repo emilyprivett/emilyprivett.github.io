@@ -64,6 +64,7 @@ li a:hover {
     font-family: Calibri;
     text-align: center;
     color: black;
+    height: auto;
 }
 
 h2{
