@@ -48,3 +48,12 @@ h2 {
     font-family: 'Segoe UI';
     text-align: center;
 }
+
+.projects {
+    list-style-type: circle;
+    color: black;
+    font-family: Calibri;
+    text-align: center;
+    color: black;
+    height: auto;
+}
