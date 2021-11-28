@@ -35,7 +35,7 @@ li a:hover {
 }
 
 .SchoolInfo {
-    background-color: black;
+    background-color: lightgray;
     width: 45%;
     height: 45%;
     display: block;
@@ -43,10 +43,11 @@ li a:hover {
     margin-right: auto;
     float: left;
     margin: 10px;
+    padding: 10px;
 }
 
 .Clubs {
-    background-color: black;
+    background-color: lightgray;
     width: 45%;
     height: 45%;
     display: block;
@@ -54,19 +55,22 @@ li a:hover {
     margin-right: auto;
     float: right;
     margin: 10px;
+    padding: 10px;
 }
 
 .clublist{
-    list-style-type: none;
+    list-style-type: circle;
     font-size: 50%;
-    color: white;
+    color: black;
     font-family: Calibri;
+    text-align: center;
 }
 
 h2{
     color: white;
     text-decoration: underline;
-    font-family: Calibri;
+    font-family: 'Segoe UI';
+    text-align: center;
 }
 
 p{
