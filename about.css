@@ -21,15 +21,55 @@ li {
     float: left;
 }
 
-    li a {
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-family: 'Segoe UI';
-    }
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+}
 
-        li a:hover {
-            background-color: black;
-        }
+li a:hover {
+    background-color: black;
+}
+
+.SchoolInfo {
+    background-color: black;
+    width: 45%;
+    height: 45%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    margin: 10px;
+}
+
+.Clubs {
+    background-color: black;
+    width: 45%;
+    height: 45%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    margin: 10px;
+}
+
+.clublist{
+    list-style-type: none;
+    font-size: 50%;
+    color: white;
+    font-family: Calibri;
+}
+
+h2{
+    color: white;
+    text-decoration: underline;
+    font-family: Calibri;
+}
+
+p{
+    color: white;
+    font-family: Calibri;
+}
