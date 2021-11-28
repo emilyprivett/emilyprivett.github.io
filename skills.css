@@ -42,14 +42,6 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
 }
-
-h2 {
-    color: black;
-    text-decoration: underline;
-    font-family: 'Segoe UI';
-    text-align: center;
-}
-
 .SkillList {
     list-style-type: circle;
     color: black;
@@ -57,4 +49,11 @@ h2 {
     text-align: center;
     color: black;
     height: auto;
+}
+
+h2 {
+    color: black;
+    text-decoration: underline;
+    font-family: 'Segoe UI';
+    text-align: center;
 }
