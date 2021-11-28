@@ -17,7 +17,7 @@ h1 {
     background-color: white;
 }
 
-li {
+.navbar li {
     float: left;
 }
 
@@ -58,7 +58,7 @@ li a:hover {
     padding: 15px;
 }
 
-.clubnames{
+.clubnames li{
     list-style-type: circle;
     color: black;
     font-family: Calibri;
