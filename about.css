@@ -1,5 +1,5 @@
 body {
-    background-color:lightgreen;
+    background-color:lightcyan;
 }
 
 h1 {
@@ -36,8 +36,8 @@ li a:hover {
 
 .SchoolInfo {
     background-color: lightgray;
-    width: 45%;
-    height: 45%;
+    width: 47%;
+    height: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -48,8 +48,8 @@ li a:hover {
 
 .Clubs {
     background-color: lightgray;
-    width: 45%;
-    height: 45%;
+    width: 47%;
+    height: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -63,16 +63,17 @@ li a:hover {
     color: black;
     font-family: Calibri;
     text-align: center;
+    color: black;
 }
 
 h2{
-    color: white;
+    color: black;
     text-decoration: underline;
     font-family: 'Segoe UI';
     text-align: center;
 }
 
 p{
-    color: white;
+    color: black;
     font-family: Calibri;
 }
