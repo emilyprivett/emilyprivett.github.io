@@ -77,3 +77,9 @@ p{
     color: black;
     font-family: Calibri;
 }
+
+img{
+    align-content:center;
+    height: 25%;
+    width: auto;
+}
