@@ -49,7 +49,7 @@ li a:hover {
 .Clubs {
     background-color: lightgray;
     width: 46%;
-    height: 60%;
+    height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -58,7 +58,7 @@ li a:hover {
     padding: 10px;
 }
 
-.clublist{
+ol{
     list-style-type: circle;
     color: black;
     font-family: Calibri;
@@ -78,8 +78,11 @@ p{
     font-family: Calibri;
 }
 
-img{
-    align-content:center;
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
     height: 25%;
     width: 30%;
 }
