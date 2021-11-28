@@ -42,6 +42,8 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
     float: left;
+    margin: 50px;
+    padding: 30px;
 }
 
 .Clubs {
@@ -52,6 +54,8 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
     float: right;
+    margin: 50px;
+    padding: 30px;
 }
 
 .clubnames{
