@@ -42,7 +42,7 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
 }
-.projects ul{
+.projects{
     list-style-type: circle;
     color: black;
     font-family: Calibri;
